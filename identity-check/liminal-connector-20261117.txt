@@ -1,0 +1,4 @@
+Synthetic Pilot B identity verification
+Date: 2026-11-17
+Expected GitHub actor: liminal-operator
+No production logic, secrets, workflows, or private Nexus content.
