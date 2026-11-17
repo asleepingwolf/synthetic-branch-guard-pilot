@@ -20,3 +20,5 @@ python -m unittest discover -s tests -v
 ```
 
 See `docs/GITHUB_RULESET_PREPARATION.md` for the proposed repository rules. Apply settings as a separate, deliberate repository-owner action. Do not grant agent access.
+
+Pilot B: direct main update test
